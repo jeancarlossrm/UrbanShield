@@ -1,0 +1,15 @@
+# UrbanShield
+
+Aplicativo Inteligente de Monitoramento Urbano e Prevenção de Furtos.
+
+## Funcionalidades
+- Cadastro de usuários
+- Login com autenticação
+- Monitoramento de risco por velocidade e localização
+
+## Tecnologias
+- C# .NET
+- Programação Orientada a Objetos
+
+## Status
+Em desenvolvimento 🚀
