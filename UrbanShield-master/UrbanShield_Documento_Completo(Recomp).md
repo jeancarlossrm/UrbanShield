@@ -332,6 +332,8 @@ erDiagram
 
 ## Plataforma 1 — Site Institucional
 
+[Figma](https://www.figma.com/proto/EGBKHJMd8Di60CUzVwm5gL/UrbanShield-Site---Prot%C3%B3tipo?node-id=2-42&starting-point-node-id=2%3A42&t=4IlYQxXA19T2VLAH-1)
+
 - **Objetivo:** Pagina oficial voltada à conscientização, apresentação dos diferenciais e disponibilização do instalador do aplicativo.
 - **Público:** Condutores, parceiros, avaliadores acadêmicos e público em geral.
 - **Seções:**
@@ -346,6 +348,8 @@ erDiagram
 
 ## Plataforma 2 — Desktop (Painel Administrativo)
 
+[Figma](https://www.figma.com/design/uZOBPGSZWZwiu4L65gXG0V/UrbanShield-Desktop--Prot%C3%B3tipo?node-id=0-1&t=KtFH6jwPXIlFY8tK-1)
+
 - **Objetivo:** Retaguarda operacional do sistema. É onde os dados oficiais da SSP-SP são processados e onde a saúde dos alertas é fiscalizada.
 - **Público:** Administradores do sistema (equipe técnica).
 - **Módulos Principais:**
@@ -358,6 +362,7 @@ erDiagram
 ---
 
 ## Plataforma 3 — Mobile (App do Motorista)
+[Figma](https://www.figma.com/design/dV9VL4FQ4C8dYPwDGQeZA5/UrbanShield-Mobile---Prot%C3%B3tipo?t=KtFH6jwPXIlFY8tK-1)
 
 - **Objetivo:** Execução contínua em segundo plano enquanto o motorista conduz, emitindo avisos pontuais e assertivos.
 - **Público:** Motoristas particulares e de aplicativo (Uber, 99, táxi).
