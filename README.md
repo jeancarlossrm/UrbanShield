@@ -58,6 +58,6 @@ Em desenvolvimento 🚀
   - Leitura constante de coordenadas geográficas e velocidade instantânea.
   - Algoritmo de cálculo de risco baseado na proximidade de ocorrências e horário.
   - Alerta sonoro e visual prioritário em situação de risco ALTO com condutor vulnerável.
-- **Tecnologia recomendada:** .NET MAUI ou Flutter para plataforma Android. (Pesquisa Inicial)
+- **Tecnologia recomendada:** .NET MAUI ou Flutter ou React Native para plataforma Android. (Pesquisa Inicial)
 
 ---
