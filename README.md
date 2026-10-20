@@ -39,7 +39,7 @@ Em desenvolvimento 🚀
 - **Objetivo:** Retaguarda operacional do sistema. É onde os dados oficiais da SSP-SP são processados e onde a saúde dos alertas é fiscalizada.
 - **Público:** Administradores do sistema (equipe técnica).
 - **Módulos Principais:**
-  - **Dashboard:** Contadores (`TotalUsuarios`, `TotalOcorrencias`, `AlertasHoje`) e gráfico de risco.
+  - **Dashboard:** Contadores (`Tota lUsuarios`, `Total Ocorrencias`, `Alertas Hoje`) e gráfico de risco.
   - **Módulo de Ocorrências:** Leitura de planilhas Excel da SSP-SP e inserção em lote na tabela `Ocorrencia`.
   - **Módulo de Usuários:** Consulta de contas cadastradas e acompanhamento de alertas vinculados.
   - **Módulo de Alertas:** Histórico de avisos disparados aos motoristas no trânsito.
